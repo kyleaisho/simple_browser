@@ -1,0 +1,8 @@
+C:\Users\Kyle\Documents\Development\C#\SimpleBrowse\SimpleBrowse\bin\Debug\SimpleBrowse.exe.config
+C:\Users\Kyle\Documents\Development\C#\SimpleBrowse\SimpleBrowse\bin\Debug\SimpleBrowse.exe
+C:\Users\Kyle\Documents\Development\C#\SimpleBrowse\SimpleBrowse\bin\Debug\SimpleBrowse.pdb
+C:\Users\Kyle\Documents\Development\C#\SimpleBrowse\SimpleBrowse\obj\Debug\SimpleBrowse.Form1.resources
+C:\Users\Kyle\Documents\Development\C#\SimpleBrowse\SimpleBrowse\obj\Debug\SimpleBrowse.Properties.Resources.resources
+C:\Users\Kyle\Documents\Development\C#\SimpleBrowse\SimpleBrowse\obj\Debug\SimpleBrowse.csproj.GenerateResource.Cache
+C:\Users\Kyle\Documents\Development\C#\SimpleBrowse\SimpleBrowse\obj\Debug\SimpleBrowse.exe
+C:\Users\Kyle\Documents\Development\C#\SimpleBrowse\SimpleBrowse\obj\Debug\SimpleBrowse.pdb
